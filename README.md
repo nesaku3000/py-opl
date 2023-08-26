@@ -13,4 +13,5 @@ Made just for fun, with rewriting interpreter to c++ in mind. <br>
 ## Upcoming features
 
 - custom expression evaluation including variable defined values
+- defining functions
 - idk yet
